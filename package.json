@@ -11,6 +11,7 @@
     "build": "lerna run build",
     "pub": "lerna publish",
     "test": "lerna run test",
+    "bootstrap": "lerna bootstrap",
     "postinstall": "husky install"
   },
   "devDependencies": {
