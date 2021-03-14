@@ -3,4 +3,5 @@ dist
 results
 .nyc_output
 *.tsbuildinfo
+*.lock
 .env
